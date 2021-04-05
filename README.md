@@ -25,7 +25,8 @@ Assuming the same population trends as described in the positive correlation, th
 <p align="center">
 <img src="https://github.com/smyoung88/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" title="Total Fare by City Type">
 </p>
-
+<br>
+The total fares by city type analysis follows the positive correlation described above.
 ## Summary 
 
 <b> Business Recommendations for Addressing Disparities Among City Types</b>
