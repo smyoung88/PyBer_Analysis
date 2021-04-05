@@ -26,7 +26,12 @@ Assuming the same population trends as described in the positive correlation, th
 <img src="https://github.com/smyoung88/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" title="Total Fare by City Type">
 </p>
 <br>
-The total fares by city type analysis follows the positive correlation described above.
+The total fares per month by city type analysis follows the positive correlation described above. Total fares per month for the most part stayed in the ranges of $2,000 - $2,500 for urban, $1,000 - $1,500 for suburban, and $0 - $500 for rural city types.
+
+
 ## Summary 
 
 <b> Business Recommendations for Addressing Disparities Among City Types</b>
+1. If any new areas of interest are being deciphered on for deployment of PyBer's business, I would recommend urban areas be targeted for best return of investment. In this dataset, urban areas made 2.6 times and 13 times more rides than suburban and rural areas respectively. With the averages fare per ride staying within $10 dollars between each city type, urban arease provide the biggest carrot.
+2. $10 per ride is not a very big difference from a rural ride to an urban ride given the lesser amount of drivers available to give rides to those in rural areas. I would recommend a price increase on rural rides (price per mile) as there are less ride opportunities available and to make sense economically, those fares have to be worthwhile.
+3. Urban is the only city type that has more drivers available than the amount of rides that occured. Each driver in rural areas make 1.60 rides, suburban make 1.28, and urban only make .68 per driver. What this means is each driver in rural and suburban gets better opportunities to give rides than Urban. I would recommend cutting the workforce in drivers for urban areas to increase the economics per driver in the city. If the goal is to ensure that each driver gets at least one ride, this would mean that 780 drivers did not have the opportunity to give rides at PyBer. If they only get paid based off the rides they give, this would not necessarily be a problem, but anything outside of that, PyBer would be in the negative.
